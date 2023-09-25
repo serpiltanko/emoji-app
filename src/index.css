@@ -29,11 +29,11 @@ code {
 }
 
 .card:hover{
-  background-color: grey;
+  background-color:rgb(211, 209, 209); 
 }
 
 .card:hover button {
-  background-color: grey; 
+  background-color: rgb(211, 209, 209); 
 }
 
 
